@@ -2,11 +2,11 @@
 static char * button_close_active_xpm[] = {
 "22 22 9 1",
 " 	c None",
-".	c #495057",
+".	c #475057",
 "+	c #8D9397",
 "@	c #9FA4A6",
 "#	c #BDC3C5",
-"$	c #EBF1F3",
+"$	c #EFF0F1",
 "%	c #CCD1D3",
 "&	c #747B83",
 "*	c #686F76",

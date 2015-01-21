@@ -3,7 +3,7 @@ static char * checkbox_selected_xpm[] = {
 "16 16 5 1",
 " 	c None",
 ".	c #3DAEE9",
-"+	c #EBF1F3",
+"+	c #EFF0F1",
 "@	c #CCD1D3",
 "#	c #BDC3C5",
 "++++++++++++++++",
